@@ -30,3 +30,5 @@
 			    * set(T value) : 将此线程局部变量的当前线程副本中的值设置为value
 		* 使用阻塞队列实现线程同步(BlockingQueue)
 		* 使用原子变量实现线程同步
+		
+#### 推荐文章 https://www.cnblogs.com/XHJT/p/3897440.html
